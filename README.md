@@ -6,7 +6,6 @@ This repo follows this tutorial: https://testdriven.io/blog/dockerizing-flask-wi
 
 This repo is a Flask application with Postgres for development. I created a production-ready Docker Compose file that adds Gunicorn and Nginx into the mix to handle static and media files. You can now test out a production setup locally, where you can upload and view images.
 
-SCREENSHOT 
 ![gif](flask.gif)
 
 ## Build Instructions
